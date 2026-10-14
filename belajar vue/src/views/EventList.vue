@@ -1,9 +1,9 @@
 <script setup>
 import { ref, computed } from 'vue';
 import { useRouter } from 'vue-router';
-import EventCard from '@/components/event/EventCard.vue';
-import SearchBar from '@/components/event/SearchBar.vue';
-import CategoryFilter from '@/components/event/CategoryFilter.vue';
+import EventCard from '@/components/events/EventCard.vue';
+import SearchBar from '@/components/events/SearchBar.vue';
+import CategoryFilter from '@/components/events/CategoryFilter.vue';
 
 const router = useRouter();
 
