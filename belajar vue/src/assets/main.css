@@ -1,0 +1,16 @@
+@import './base.css';
+
+body {
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+  background-color: #f8f9fc;
+  color: #333;
+}
+
+#app {
+  width: 100%;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+}
