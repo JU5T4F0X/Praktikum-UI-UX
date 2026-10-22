@@ -7,7 +7,7 @@
       </div>
 
       <h3 class="event-title">{{ event.title }}</h3>
-      <p class="event-loc">📍 {{ event.loc }}</p>
+      <p class="event-loc">{{ event.loc }}</p>
       <p class="event-desc">{{ event.desc }}</p>
 
       <div class="card-footer">
